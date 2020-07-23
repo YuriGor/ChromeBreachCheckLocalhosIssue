@@ -1,0 +1,23 @@
+{
+  "name": "chromebreachchecklocalhosissue",
+  "version": "1.0.0",
+  "description": "https://bugs.chromium.org/p/chromium/issues/detail?id=1108194#c3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriGor/ChromeBreachCheckLocalhosIssue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriGor/ChromeBreachCheckLocalhosIssue/issues"
+  },
+  "homepage": "https://github.com/YuriGor/ChromeBreachCheckLocalhosIssue#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
